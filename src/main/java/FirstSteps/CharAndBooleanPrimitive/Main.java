@@ -7,7 +7,6 @@ public class Main {
         System.out.println(myChar);
         System.out.println(myUnicodeChar);
 
-
         boolean myTrueBooleanValue = true;
         boolean myFalseBooleanValue = false;
         boolean isCustomerOverTwenyOne = true;
